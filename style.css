@@ -1,0 +1,46 @@
+.red {
+    width: 450px;
+    height: 90px;
+    border: solid 5px rgb(255, 73, 7);
+    background-color: blue;
+    color: bisque;
+}
+
+
+.red:hover {
+    color: black;
+}
+
+.red:active {
+    color: chartreuse;
+}
+
+.web {
+    color: rgb(5, 46, 46);
+    background-color: bisque;
+}
+
+
+.web:hover {
+    color: coral;
+}
+
+.web:active {
+    color: rgb(25, 106, 25);
+}
+
+a {
+    color: aqua;
+    background-color: blueviolet;
+    
+
+}
+
+a:hover {
+    color: brown;
+}
+
+
+a:active {
+    color: rgba(51, 0, 255, 0.516);
+}
